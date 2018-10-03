@@ -1,0 +1,2 @@
+T_Vegetation_Debris_002_N.uasset filter=lfs diff=lfs merge=lfs -text
+T_Vegetation_Debris_002_D_R.uasset filter=lfs diff=lfs merge=lfs -text
