@@ -75,3 +75,4 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+Studio2ProjectT3/Intermediate/CachedAssetRegistry.bin
