@@ -1,3 +1,0 @@
-C:\Users\cmullins2\Documents\GitKraken\Studio2Project\Studio2ProjectT3\Source\Studio2ProjectT3\Studio2ProjectT3.Build.cs
-C:\Users\cmullins2\Documents\GitKraken\Studio2Project\Studio2ProjectT3\Source\Studio2ProjectT3.Target.cs
-C:\Users\cmullins2\Documents\GitKraken\Studio2Project\Studio2ProjectT3\Source\Studio2ProjectT3Editor.Target.cs
