@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.25807.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Engine", "Engine", "{4AB6A0C0-0835-48EF-AF58-D22FE8BD8FD0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Enterprise", "Enterprise", "{B8985CAE-0E89-46E5-8916-C0259E659A02}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "UE4", "Intermediate\ProjectFiles\UE4.vcxproj", "{148B0DFA-6A35-4DFC-8D3D-9D924BC42C8A}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Studio", "Intermediate\ProjectFiles\Studio.vcxproj", "{85E4922F-BE76-48D6-9D7D-1637AD14705D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{148B0DFA-6A35-4DFC-8D3D-9D924BC42C8A} = {4AB6A0C0-0835-48EF-AF58-D22FE8BD8FD0}
+		{85E4922F-BE76-48D6-9D7D-1637AD14705D} = {B8985CAE-0E89-46E5-8916-C0259E659A02}
+	EndGlobalSection
+EndGlobal
