@@ -3,15 +3,5 @@
 	"EngineAssociation": "4.20",
 	"Category": "",
 	"Description": "",
-	"Enterprise": true,
-	"Modules": [
-		{
-			"Name": "Studio2ProjectT3",
-			"Type": "Runtime",
-			"LoadingPhase": "Default",
-			"AdditionalDependencies": [
-				"Engine"
-			]
-		}
-	]
+	"Enterprise": true
 }
