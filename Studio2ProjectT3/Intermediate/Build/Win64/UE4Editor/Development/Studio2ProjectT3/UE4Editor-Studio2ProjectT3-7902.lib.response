@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-Studio2ProjectT3-7902.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\cmullins2\Documents\GitKraken\Studio2Project\Studio2ProjectT3\Intermediate\Build\Win64\UE4Editor\Development\Studio2ProjectT3\NewActorComponent.cpp.obj"
+"C:\Users\cmullins2\Documents\GitKraken\Studio2Project\Studio2ProjectT3\Intermediate\Build\Win64\UE4Editor\Development\Studio2ProjectT3\Studio2ProjectT3.cpp.obj"
+"C:\Users\cmullins2\Documents\GitKraken\Studio2Project\Studio2ProjectT3\Intermediate\Build\Win64\UE4Editor\Development\Studio2ProjectT3\NewActorComponent.gen.cpp.obj"
+"C:\Users\cmullins2\Documents\GitKraken\Studio2Project\Studio2ProjectT3\Intermediate\Build\Win64\UE4Editor\Development\Studio2ProjectT3\Studio2ProjectT3.init.gen.cpp.obj"
+"C:\Users\cmullins2\Documents\GitKraken\Studio2Project\Studio2ProjectT3\Intermediate\Build\Win64\UE4Editor\Development\Studio2ProjectT3\PCLaunch.rc.res"
+/OUT:"C:\Users\cmullins2\Documents\GitKraken\Studio2Project\Studio2ProjectT3\Intermediate\Build\Win64\UE4Editor\Development\Studio2ProjectT3\UE4Editor-Studio2ProjectT3-7902.lib"
